@@ -42,7 +42,7 @@ class AppTileService : TileService() {
 
     private fun initTile() {
         qsTile?.run {
-            label = "テザリングとポータブルアクセス"
+            label = getString(R.string.tile_name)
             state = Tile.STATE_INACTIVE
             updateTile()
         }

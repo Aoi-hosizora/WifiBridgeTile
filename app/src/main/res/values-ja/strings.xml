@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WifiBridgeTile</string>
+    <string name="tile_name">テザリングとポータブルアクセス</string>
+</resources>

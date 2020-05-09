@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">WifiBridgeTile</string>
-    <string name="tile_name">Tethering &amp; portable hotspot</string>
+    <string name="tile_name">移动网络共享</string>
 </resources>

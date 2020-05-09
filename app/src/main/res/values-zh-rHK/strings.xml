@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">WifiBridgeTile</string>
-    <string name="tile_name">Tethering &amp; portable hotspot</string>
+    <string name="tile_name">網路共享與可攜式 WLAN 熱點</string>
 </resources>
