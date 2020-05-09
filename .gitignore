@@ -1,0 +1,19 @@
+### Editor ###
+.idea/
+.vscode/
+.ionide/
+.history/
+
+
+### Android ###
+*.iml
+.gradle
+/local.properties
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+### Build ###
+/build
+/dist
